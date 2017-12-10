@@ -163,3 +163,9 @@ s[0]
 3rd party library functions can be used, custom mechansisms for these library functions will
 need to be defined for each programming language, as well as how to deal with processing
 out-of band according to the stepwise function.
+
+# OUTPUT/SCRIPTING
+
+output is to be written directly into the program or another space
+if output is written into the grid, then the naturally, sulang becomes a script 
+as output is able to participate in the logic of the language
